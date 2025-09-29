@@ -1,4 +1,21 @@
-## 🎨 Project Overview
+# 📘 BabySoC – Week 2 Functional Modelling
+
+## 📑 Table of Contents
+
+* [🎨 Project Overview](#project-overview)
+* [📚 Objective](#objective)
+* [🛠 Steps Taken](#steps-taken)
+* [💻 Commands Executed](#commands-executed)
+* [⚠️ Errors & Fixes](#errors--fixes)
+* [🔗 Workflow Diagram](#workflow-diagram)
+* [📂 Project Structure](#project-structure)
+* [📸 Simulation Results](#simulation-results)
+* [📂 Deliverables](#deliverables)
+* [🏆 Outcome](#outcome)
+
+---
+
+## 🎨 Project Overview <a name="project-overview"></a>
 
 <div align="center">
 
@@ -10,7 +27,7 @@
 
 ---
 
-### 📚 **Objective**
+### 📚 Objective <a name="objective"></a>
 
 > 🎯 Understand **SoC fundamentals** and demonstrate **functional modelling** of BabySoC using simulation tools.
 > **Tools Used:**
@@ -20,7 +37,7 @@
 
 ---
 
-### 🛠 **Steps Taken**
+### 🛠 Steps Taken <a name="steps-taken"></a>
 
 <details>
 <summary>📂 Click to expand</summary>
@@ -35,7 +52,7 @@
 
 ---
 
-### 💻 **Commands Executed**
+### 💻 Commands Executed <a name="commands-executed"></a>
 
 <details>
 <summary>📜 Click to expand commands</summary>
@@ -62,7 +79,7 @@ gtkwave tb_mythcore_test.vcd
 
 ---
 
-### ⚠️ **Errors & Fixes** 🛠️
+### ⚠️ Errors & Fixes <a name="errors--fixes"></a>
 
 <details>
 <summary>🚨 Click to expand all errors and fixes</summary>
@@ -90,7 +107,7 @@ gtkwave tb_mythcore_test.vcd
 
 ---
 
-### 🔗 **Workflow Diagram** 🔄
+### 🔗 Workflow Diagram <a name="workflow-diagram"></a>
 
 <details>
 <summary>📊 Click to expand workflow diagram</summary>
@@ -119,7 +136,7 @@ gtkwave tb_mythcore_test.vcd
 
 ---
 
-### 📂 **Project Structure**
+### 📂 Project Structure <a name="project-structure"></a>
 
 <details>
 <summary>📁 Click to expand project structure details</summary>
@@ -151,7 +168,7 @@ Week2/
 
 ---
 
-### 📸 **Simulation Results**
+### 📸 Simulation Results <a name="simulation-results"></a>
 
 #### 1️⃣ Reset & Clock Operation ⏱️
 
@@ -165,7 +182,7 @@ Week2/
 
 ---
 
-### 📂 **Deliverables** 📦
+### 📂 Deliverables <a name="deliverables"></a> 📦
 
 * 📄 Simulation logs
 * 🖼 Waveform screenshots
@@ -173,7 +190,7 @@ Week2/
 
 ---
 
-### 🏆 **Outcome** 🎉
+### 🏆 Outcome <a name="outcome"></a> 🎉
 
 By completing Week 2, I:
 
