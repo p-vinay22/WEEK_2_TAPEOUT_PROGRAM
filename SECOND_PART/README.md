@@ -171,8 +171,9 @@ Week2/
 ### 📸 Simulation Results <a name="simulation-results"></a>
 
 #### 1️⃣ Reset & Clock Operation ⏱️
+![WhatsApp Image 2025-10-07 at 5 14 53 PM](https://github.com/user-attachments/assets/b3e13334-03f6-441d-9280-d049c4c7f76a)
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/18d679a0-8e80-4966-ac92-0035fec86580" />  
+
 ✔ **Explanation:** Reset asserted at start, clock starts after reset deassertion, signals behave as expected.  
 
 #### 2️⃣ Dataflow Between Modules 🔀
